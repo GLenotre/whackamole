@@ -1,0 +1,35 @@
+h2 {
+	font: comic, sans-serif;
+	font-weight: bold;
+	margin-left: 400px;
+}
+
+p {
+	font-size: 30px;
+	color: violet;
+	font-family: cursive;
+}
+
+.hole {
+    max-width: 80%;
+    height: auto;
+    position: absolute;
+}
+
+.rat {
+/*    max-height: 50%;*/
+	max-width: 80%;
+    width: auto;
+    z-index: 1;
+    position: absolute;
+/*    display: none;*/
+}
+
+.gametile {
+	position: relative;
+	height: 200px;
+	margin-bottom: 30px;
+/*	float: left;*/
+}
+
+
